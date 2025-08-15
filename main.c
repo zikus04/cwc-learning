@@ -1,3 +1,23 @@
+/*
+ * CWC - Custom Wayland Compositor
+ * 
+ * ORIGINAL IMPLEMENTATION BY: donthurtme1
+ * Original Repository: https://github.com/donthurtme1/cwc
+ * 
+ * This is the original main.c file created by donthurtme1.
+ * All credit for this implementation goes to the original author.
+ */
+
+/*
+ * CWC - Custom Wayland Compositor
+ * 
+ * ORIGINAL IMPLEMENTATION BY: donthurtme1
+ * Original Repository: https://github.com/donthurtme1/cwc
+ * 
+ * This is the original main.c file created by donthurtme1.
+ * All credit for this implementation goes to the original author.
+ */
+
 #include <fcntl.h>
 #include <stdlib.h>
 #include <sys/mman.h>

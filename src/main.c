@@ -1,3 +1,17 @@
+/*
+ * CWC - Custom Wayland Compositor
+ * 
+ * ORIGINAL WORK BY: donthurtme1
+ * Original Repository: https://github.com/donthurtme1/cwc
+ * 
+ * This file is based on the excellent work by donthurtme1.
+ * All core implementation, algorithms, and architecture credit
+ * goes to the original author.
+ * 
+ * This version includes educational enhancements and documentation
+ * improvements for learning purposes.
+ */
+
 #include "../include/cwc.h"
 #include <signal.h>
 #include <getopt.h>

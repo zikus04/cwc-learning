@@ -1,4 +1,8 @@
 # CWC - Custom Wayland Compositor Makefile
+# 
+# ORIGINAL WORK BY: donthurtme1 (https://github.com/donthurtme1/cwc)
+# This enhanced Makefile is based on the original by donthurtme1
+# 
 # Modern C build system with security and optimization flags
 
 # Project configuration

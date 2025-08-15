@@ -2,10 +2,24 @@
 
 A minimal Wayland compositor implementation written in C for educational purposes.
 
-## 📝 Attribution
+> **⭐ ORIGINAL WORK BY [donthurtme1](https://github.com/donthurtme1/cwc) ⭐**
+> 
+> **This repository is based entirely on the excellent work by [donthurtme1](https://github.com/donthurtme1/cwc).** 
+> All core concepts, architecture, and initial implementation credit goes to the original author.
+> 
+> 🔗 **Original Repository:** https://github.com/donthurtme1/cwc  
+> 👨‍💻 **Original Author:** [donthurtme1](https://github.com/donthurtme1)  
+> 📚 **This repo:** Learning-focused enhancements and documentation improvements
 
-This project is based on the original CWC implementation by [donthurtme1](https://github.com/donthurtme1/cwc). 
-This repository contains enhancements and educational improvements to the original codebase.
+## 📝 What This Repository Adds
+
+This is a **learning-focused fork** that adds:
+- Enhanced documentation and learning guides
+- Improved project structure for educational purposes  
+- Additional comments and explanations
+- Development setup scripts
+
+**All fundamental code and concepts remain credited to [donthurtme1](https://github.com/donthurtme1/cwc)**
 
 ## 🎯 Purpose
 
