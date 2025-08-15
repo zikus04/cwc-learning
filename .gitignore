@@ -1,0 +1,91 @@
+# Build artifacts
+build/
+*.o
+*.a
+*.so
+*.so.*
+*.dylib
+cwc
+cwc.exe
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+core
+core.*
+vgcore.*
+gmon.out
+
+# Coverage files
+*.gcda
+*.gcno
+*.gcov
+*.lcov
+coverage.info
+coverage/
+
+# Profiling files
+*.prof
+callgrind.out.*
+
+# Static analysis
+cppcheck-report.xml
+scan-build-*/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+tags
+TAGS
+compile_commands.json
+
+# Documentation
+docs/html/
+docs/latex/
+docs/*.pdf
+*.doxygen_sqlite3
+
+# Package files
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.zip
+*.deb
+*.rpm
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# CMake (if used in future)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile.cmake
+
+# Autotools (if used in future)
+autom4te.cache/
+config.log
+config.status
+configure
+Makefile.in
+aclocal.m4
+
+# Local configuration
+.env
+local.mk
