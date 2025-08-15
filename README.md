@@ -2,6 +2,11 @@
 
 A minimal Wayland compositor implementation written in C for educational purposes.
 
+## 📝 Attribution
+
+This project is based on the original CWC implementation by [donthurtme1](https://github.com/donthurtme1/cwc). 
+This repository contains enhancements and educational improvements to the original codebase.
+
 ## 🎯 Purpose
 
 This project demonstrates the fundamentals of building a Wayland compositor, including:
